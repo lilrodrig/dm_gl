@@ -15,4 +15,4 @@ Le dossier du projet contient:
 ## Pré-requis:
 - Python
 - Logiciel MySQLbench
-- Lecteur de notebooks ipynb de votre choix
+- Lecteur de Jupyter notebooks de votre choix
